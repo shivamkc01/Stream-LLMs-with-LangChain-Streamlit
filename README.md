@@ -6,7 +6,7 @@ Certainly! Here's a more informative and detailed version of your GitHub README 
 
 Welcome to the GitHub repository for the Streaming demo from LangChain and Streamlit. This repository contains the code for a Streamlit-based chatbot application. The app is designed to remember previous messages and provide real-time, streamed responses to user inputs.
 
-![App Screenshot]([path/to/your/screenshot.png](https://drive.google.com/file/d/18dYmCmH-yKuxlEcVy6Kmij-SobS-Z7eb/view?usp=drive_link))
+![App Screenshot](https://github.com/shivamkc01/Stream-LLMs-with-LangChain-Streamlit/blob/main/result.png)
 
 ## Features
 - **Interactive Chatbot**: Engage in conversations where the chatbot retains context from previous messages.
