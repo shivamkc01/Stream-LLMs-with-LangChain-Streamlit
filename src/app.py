@@ -61,7 +61,9 @@ def get_response(query, chat_history):
   prompt = ChatPromptTemplate.from_template(template)
   llm = ChatGroq(
             api_key=os.getenv("GROQ_API_KEY"),
-            model="llama3-8b-8192"
+            model="llama3-70b-8192"
+            # model="gemma-7b-it",
+            # model="mixtral-8x7b-32768"
   )
   chain = prompt | llm | StrOutputParser()
 
