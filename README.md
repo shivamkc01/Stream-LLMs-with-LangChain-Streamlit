@@ -72,7 +72,7 @@ streaming-bot/
 Contributions are welcome! If you have suggestions for improvements or encounter any issues, please feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/shivamkc01/Stream-LLMs-with-LangChain-Streamlit/blob/main/LICENCE.md) file for more details.
 
 ---
 
