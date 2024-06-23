@@ -1,7 +1,3 @@
-Certainly! Here's a more informative and detailed version of your GitHub README with an added section for a webpage image:
-
----
-
 # ChatGPT Clone with Streaming Feature using Streamlit
 
 Welcome to the GitHub repository for the Streaming demo from LangChain and Streamlit. This repository contains the code for a Streamlit-based chatbot application. The app is designed to remember previous messages and provide real-time, streamed responses to user inputs.
